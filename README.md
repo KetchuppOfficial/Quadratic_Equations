@@ -1,6 +1,6 @@
 # Quadratic_Equations
 
-This project is developed to solve quadratic equations. In maths equation is called quadratic if it can be arranged in standart form as \(ax^2 + bx + c = 0\) where "a" is not equal to 0. If you run the program, you can solve any equation that not only can be arranged in standart form as \(ax^2 + bx + c = 0\) but also coefficient "a" can be equal to 0.
+This project is developed to solve quadratic equations. In maths equation is called quadratic if it can be arranged in standart form as ![equation](ax^2 + bx + c = 0) where "a" is not equal to 0. If you run the program, you can solve any equation that not only can be arranged in standart form as ![equation](ax^2 + bx + c = 0) but also coefficient "a" can be equal to 0.
 
 ## How to run 
 
