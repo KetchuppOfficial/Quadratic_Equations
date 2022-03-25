@@ -1,0 +1,6 @@
+Objects/*.o
+
+doxygen/
+Doxyfile
+
+quadratic.out
