@@ -19,11 +19,11 @@ $ make clean
 
 This picture shows how the program behaves when the user enters correct data
 
-![screenshot_1]("https://github.com/KetchuppOfficial/Quadratic_Equations/blob/main/Screenshot%201.PNG")
+![screenshot_1](https://github.com/KetchuppOfficial/Quadratic_Equations/blob/master/Screenshots/Screenshot_1.png)
 
 This picture shows the possibility of solvation one more equation and shows how the program behaves when the user enters incorrect data
 
-![screenshot_2]("https://github.com/KetchuppOfficial/Quadratic_Equations/blob/main/Screenshot%202.PNG")
+![screenshot_2](https://github.com/KetchuppOfficial/Quadratic_Equations/blob/master/Screenshots/Screenshot_2.png)
 
 ## Documentation
 If you want to see the documentation of the project, you can download it from "???"
